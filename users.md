@@ -523,3 +523,9 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+  Name: Mohammed Bilal   
+  Place: Trivandrum, India  
+  Bio: Currently a beginner in programming 
+  GitHub: [mdb571](https://github.com/mdb571)  
+  
